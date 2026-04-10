@@ -1,12 +1,12 @@
-module github.com/pemistahl/lingua-go
+module github.com/asciimoo/lingua-go
 
-go 1.18
+go 1.25.0
 
 require (
 	github.com/shopspring/decimal v1.4.0
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/exp v0.0.0-20221106115401-f9659909a136
-	google.golang.org/protobuf v1.36.0
+	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
+	google.golang.org/protobuf v1.36.11
 )
 
 require (

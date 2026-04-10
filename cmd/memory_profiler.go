@@ -18,7 +18,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pemistahl/lingua-go"
+	"github.com/asciimoo/lingua-go"
 	"runtime"
 )
 
