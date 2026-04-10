@@ -1,3 +1,8 @@
+## WARNING
+
+This is a fork of [https://github.com/pemistahl/lingua-go](https://github.com/pemistahl/lingua-go). The fork allows importing every language as an individual package to reduce the size of the binaries. See more details in [this issue](https://github.com/pemistahl/lingua-go/issues/26).
+
+
 <div align="center">
 
   ![lingua](https://raw.githubusercontent.com/pemistahl/lingua-go/main/cmd/images/logo.png)
